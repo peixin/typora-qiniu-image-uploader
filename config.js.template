@@ -1,0 +1,6 @@
+module.exports = {
+  qiniuBucket: "bucket-name",
+  qiniuPath: "typora-images",
+  qshellPath: "/usr/local/bin/qshell",
+  host: "http://example.com",
+}
