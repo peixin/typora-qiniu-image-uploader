@@ -9,14 +9,18 @@
 - `vim config.js`
 
 ### Typroa config
-- version >= 0.9.9.32 (0.9.84) beta [What's-New-0.9.84](https://support.typora.io/What's-New-0.9.84)
-- config
-  ![image-20200510231618482](http://beiming-public.liupei.xin/typora-images/README/image-20200510231618482.png)
 
+- version >= 0.9.9.32 (0.9.84) beta [What's-New-0.9.84](https://support.typora.io/What's-New-0.9.84)
+
+- config
+  ![image-20200919160738620](http://beiming-public.liupei.xin/typora-images/README/image-20200919160738620.png-public)
+  
 - test
-  ![image-20200510230339850](http://beiming-public.liupei.xin/typora-images/README/image-20200510230339850.png)
+  ![image-20200510230339850](http://beiming-public.liupei.xin/typora-images/README/image-20200510230339850.png-public)
+  
 - usage like
   ![usage](https://support.typora.io/media/image-upload/upload.gif)
+  
 - markdown source
 ```
 /Users/xxxxxx/apps/typroa/images/README/image-20200510231248589.png

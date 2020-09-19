@@ -1,2 +1,5 @@
 images/
 config.js
+config-*.js
+.history
+.DS_Store
